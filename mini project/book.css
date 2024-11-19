@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: blue;
+    margin-left: 30%;
+}
+.Pushpa{
+    width: 40%;
+    height: 50%;
+    color: black;
+    margin:32px;
+    border: 2px solid black;
+    padding: 40px;
+    background-color: whitesmoke;
+}
+.content{
+    color: black;
+    font-size: 1;
+}
+.image img{
+    height:200px;
+    width: 150px;
+    border-radius:5px;
+}
+.image{
+    float: left;
+    margin: 10px;
+}
+.image1{
+    
+    float: left;
+    margin: 10px;
+}
+.box1{
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+    border: 2px solid grey;
+    background-color:rgb(232, 232, 232);
+    border-radius: 45px;
+    padding: 4px;
+    text-align: center;
+}
+.box2{
+    color: rgb(75, 74, 74);
+    font-size: 13px;
+    border: 2px solid grey;
+    background-color:rgb(232, 232, 232);
+    border-radius: 45px;
+    padding: 4px;
+    text-align: center;
+}
+.information h2{
+    color: rgb(140, 137, 137);
+}
